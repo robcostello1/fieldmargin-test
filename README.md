@@ -1,4 +1,4 @@
-Please run `npm install` or `yarn` to install dependencies. I've focussed on clean, simple code. Could still do with some cleaning up.
+Please run `yarn` or `npm install` to install dependencies. I've focussed on clean, simple code. Could still do with some cleaning up.
 
 I've taken some short cuts.
 
